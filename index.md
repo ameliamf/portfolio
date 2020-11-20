@@ -8,7 +8,7 @@ Amazing stuff about myself...
 [My Deep Learning project](/sample_page) <img src="images/deep_learning_thumb.png?raw=true"/>
 
 ---
-[Spatial Bayes](/pdf/Bates_poster.pdf)
+[Spatial Bayes](/pdf/Bayes_poster.pdf)
 <img src="images/Bayes_poster_thumb.jpg?raw=true"/>
 ---
 
