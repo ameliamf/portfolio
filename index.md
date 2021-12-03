@@ -1,6 +1,6 @@
-## Matt's Portfolio
+## Amelia's Portfolio
 
-Amazing stuff about myself...
+Take a look at some of my work! 
 ------------------------------------------------------------------------
 
 ### My past projects
